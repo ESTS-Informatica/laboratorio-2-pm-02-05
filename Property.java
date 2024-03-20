@@ -73,4 +73,6 @@ public class Property {
     public String toString() {
         return "Descrição: "+description+ "\n Preço: "+price;
     }
+    
+    
 }
